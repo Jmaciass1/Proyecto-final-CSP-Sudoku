@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto final para la clase de Introducción a la 
 ## Reporte escrito
 AGREGAR LINK DEL REPORTE
 ## Vídeo
-AGREGAR LINK DEL VIDEO
+El video se encuentra en el siguiente link: https://youtu.be/hfioPUhaHHE
 
 # ¿Cómo se usa la interfaz gráfica?
 Para correr de manera correcta la GUI programada, se deberá compilar y ejecutar el archivo Main.py.
